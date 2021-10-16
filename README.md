@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 
 ## project link
-- <a href="https://github.com/dhzzang1/Vue_Instagram"> Vue toy </a>
+- <a href="https://github.com/dhzzang1/Vue_Instagram"> Vue instagram </a>
 - <a href="https://github.com/dhzzang1/Project"> Spring JSP hotel web  </a>
 
 ## editer
